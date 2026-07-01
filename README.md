@@ -6,8 +6,9 @@ Monitors a directory and all its subdirectories for file and folder changes in r
 
 ## Demo
 
-![demo](images/Screenshot1.jpeg)
 ![demo](images/Screenshot2.jpeg)
+
+![demo](images/Screenshot1.jpeg)
 
 ## Features
 
